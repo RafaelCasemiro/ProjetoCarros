@@ -23,7 +23,7 @@ export default function App(){
 
           <div>
             <img src={iconLuxury} alt="Logo de um Luxury" />
-            <h2>Luxury</h2>
+            <h2>Elétrico</h2>
             <p>Passeie nos melhores carros sem os preços exorbitantes. Desfrute do conforto aprimorado de um aluguel de luxo e chegue com estilo.</p>
             <a href="https://www.webmotors.com.br/carros-eletricos" target="_blank">Ver mais</a>
           </div>
